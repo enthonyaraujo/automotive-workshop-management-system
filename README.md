@@ -1,4 +1,4 @@
-# Atividade Prática 1º Unidade - Oficina Mecânica - Algoritmos e Estrutura de Dados I
+# Oficina Mecânica - Algoritmos e Estrutura de Dados I
 
 Sistema de Gerenciamento para Oficina Mecânica
 
